@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@apollo/react-hooks": "^3.0.1"
+  }
+}
